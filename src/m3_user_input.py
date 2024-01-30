@@ -77,5 +77,5 @@ print(f"Hello {name}! It's very nice to meet you!")
 ###############################################################################
 
 number = input ("What is your favorite number?")
-print(f"{number}") 
-
+answer = int(number)
+print(f"{name}, your favorite number is {answer}. What a great number!")
